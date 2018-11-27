@@ -1,6 +1,6 @@
-# BUS
+# The BUS format specification
 
-BUS format specification. The BUS format is a binary format for storing intermediate results for single cell RNA-Seq dataset. This repository details the design of the format.
+The BUS format is a binary format for storing intermediate results for single cell RNA-Seq datasets. This repository details the specification of the format.
 
 The motivation and example usage of the BUS format and [BUStools]() are described in
 
@@ -13,9 +13,13 @@ P Melsted, V Ntranos, L Pachter, [The Barcode, UMI, Set format and BUStools](htt
 
 - [kallisto](https://pachterlab.github.io/kallisto) version 0.45.0 and later
 
-#### BUS parsing
+#### BUS file manipulation
 
-- [BUStools](https://github.com/BUStools/bustools)
+- [bustools](https://github.com/BUStools/bustools)
+
+#### BUS parsing and processing
+
+- [BUS notebooks](https://github.com/BUStools/notebooks)
 
 
 ### Format specification
