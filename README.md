@@ -19,7 +19,7 @@ P Melsted, V Ntranos, L Pachter, [The Barcode, UMI, Set format and BUStools](htt
 
 #### BUS parsing and processing
 
-- [BUS notebooks](https://github.com/BUStools/notebooks)
+- BUS [R notebooks](https://github.com/BUStools/BUS_notebooks_R) and [python notebooks](https://github.com/BUStools/BUS_notebooks_python)
 
 
 ### Format specification
