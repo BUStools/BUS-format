@@ -36,7 +36,7 @@ A BUS file is a binary file consisting of a header followed by zero or more BUS 
 | text | Plain text header | char[tlen] |  |
 
 
-BUS records are stored directly after the header in the following format
+BUS records are stored directly after the header in the following format, the size of each BUS record is rounded up to 32 bytes.
 
 |Field name | Description | Type |
 |-----------|-------------|------|
