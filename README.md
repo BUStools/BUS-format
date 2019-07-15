@@ -4,7 +4,7 @@ The BUS format is a binary format for storing intermediate results for single ce
 
 The motivation and example usage of the BUS format and [BUStools]() are described in
 
-P Melsted, V Ntranos, L Pachter, [The Barcode, UMI, Set format and BUStools](https://www.biorxiv.org/content/early/2018/11/18/472571), bioRxiv 2018 pp: 472571.
+P Melsted, V Ntranos, L Pachter, [The Barcode, UMI, Set format and BUStools](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btz279/5487510), Bioinformatics, btz279, 2019.
 
 
 ### Tools
@@ -17,10 +17,9 @@ P Melsted, V Ntranos, L Pachter, [The Barcode, UMI, Set format and BUStools](htt
 
 - [bustools](https://github.com/BUStools/bustools)
 
-#### BUS parsing and processing
+#### BUS parsing
 
 - BUS [R notebooks](https://github.com/BUStools/BUS_notebooks_R) and [python notebooks](https://github.com/BUStools/BUS_notebooks_python)
-
 
 ### Format specification
 
