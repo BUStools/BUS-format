@@ -2,7 +2,7 @@
 
 The BUS format is a binary format for storing intermediate results for single cell RNA-Seq datasets. This repository details the specification of the format.
 
-The motivation and example usage of the BUS format and [BUStools]() are described in
+The motivation and example usage of the BUS format is described in
 
 P Melsted, V Ntranos, L Pachter, [The Barcode, UMI, Set format and BUStools](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btz279/5487510), Bioinformatics, btz279, 2019.
 
